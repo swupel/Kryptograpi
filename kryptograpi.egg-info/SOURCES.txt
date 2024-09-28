@@ -2,7 +2,6 @@
 LICENSE
 MANIFEST.in
 README.md
-pi.txt
 pyproject.toml
 setup.py
 kryptograpi/__init__.py

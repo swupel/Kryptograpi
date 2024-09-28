@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: kryptograpi
-Version: 0.3
+Version: 0.4
 Summary: A library using mpmath and requests
 Home-page: https://github.com/swupel/kryptograpi
 Author: Anton Graller

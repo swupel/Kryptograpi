@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="kryptograpi",                  
-    version="0.3",                      
+    version="0.4",                      
     packages=find_packages(),          
     install_requires=[],
     description="A library using mpmath and requests",
@@ -17,9 +17,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_data={
-        '': ['pi.txt'],
-    },
-    include_package_data=True,
     python_requires='>=3.6'
 )

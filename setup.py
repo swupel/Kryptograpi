@@ -8,7 +8,7 @@ setup(
     description="A library using mpmath and requests",
     long_description=open('README.md').read(),  
     long_description_content_type="text/markdown",  
-    url="https://github.com/swupel/Kryptograpi",  
+    url="https://github.com/swupel/kryptograpi",  
     author="Anton Graller",                
     author_email="anton.graller@swupelpms.com", 
     license="MIT",                     

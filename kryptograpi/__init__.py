@@ -1,3 +1,3 @@
-from .functions import generate_pi_until_sequence, encrypt
+from .functions import define_pi,encrypt,decrypt
 
-__all__ = ['generate_pi_until_sequence', 'encrypt']
+__all__ = ['define_pi','encrypt','decrypt']
